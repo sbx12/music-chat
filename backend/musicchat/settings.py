@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     
     # apps
     'api.apps.ApiConfig',
+    'frontend.apps.FrontendConfig',
     
     # third party apps
     'rest_framework'
